@@ -1,16 +1,21 @@
 👋 Hi, I'm Braj Narayan Awasthi, a BTech student passionate about data science and web development. I enjoy exploring the intersection of data and technology to solve real-world problems and build impactful solutions.
 
 🔧 What I Do:
-Learning and applying data science techniques
-Designing and developing web applications
+
+- Learning and applying data science techniques
+- Designing and developing web applications
 
 🎯 What Drives Me:
-I’m driven by curiosity and a desire to continuously enhance my skills in cutting-edge technologies to create innovative and practical solutions.
+
+- I’m driven by curiosity and a desire to continuously enhance my skills in cutting-edge technologies to create innovative and practical solutions.
+  
 📚 Currently Exploring:
-Advanced machine learning techniques
-Modern web development frameworks.
+
+- Advanced machine learning techniques
+- Modern web development frameworks.
 
 🌱 Let’s Connect:
+
 - 📫 This is my email -3083brajnarayanawasthi@gmail.com
 - [LinkedIn Profile](https://www.linkedin.com/in/braj-narayan-awasthi-33193a274)
   
